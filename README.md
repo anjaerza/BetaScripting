@@ -14,7 +14,13 @@ No se implementó tienda
 BUGS:
 En algunas pantallas, no se alcanza a ver la imagen completa, por lo que la UI queda recortada.
 
-Fuente de Assets
+Ayudas de Código:
+
+Tutorial Savegame: 
+https://www.youtube.com/watch?v=XOjd_qU2Ido
+
+
+Fuente de Assets:
 
 Sonidos:
 Freesound: https://freesound.org
