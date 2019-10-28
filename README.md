@@ -4,7 +4,7 @@ Entrega Beta Scripting
 Integrantes
 
 Andrés Eraso 000349895
-Adrián Osorio 
+Adrián Osorio 000318733
 Miguel Rico 000318327
 
 
